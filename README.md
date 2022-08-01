@@ -17,40 +17,18 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 Clone o projeto:
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/veras-dan/dice_roller
 ```
 
 Entre no diretório do projeto:
 
 ```bash
-  cd my-project
+  cd dice_roller
 ```
-
-Instale as dependências:
-
-```bash
-  npm install
-```
-
-Inicie o servidor:
-
-```bash
-  npm run start
-```
-
-## 📦 Desenvolvimento
-
-Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
-
-## Resolvendo problemas
-Veja alguns problemas que surgiram no desenvolvimento deste projeto e como os resolvi em [`issues`]()
 
 ## 📝 Contribuindo
 
 > Contribuições são sempre bem-vindas! Caso tenha alguma dúvida confira este [`guia de como contribuir no GitHub`](./CONTRIBUTING.md).
-
-## 📝 Contribuintes
-![GitHub Contributors Image](https://contrib.rocks/image?repo=verasdan/Flexbox)
 
 ## ✍🏻 Autores
 
@@ -74,9 +52,3 @@ Alguns canais para entrar em contato:
 ## 📝 Licença
 
 Este projeto esta sobe a licença [`MIT licensed`](./LICENSE).
-
-# 🔗 Referência
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
